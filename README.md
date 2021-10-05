@@ -3,6 +3,9 @@
  - Learn how to build AI models
  - Learn about Qualcomm SNPE
 
-Ref:
+https://developer.qualcomm.com/sites/default/files/docs/snpe/index.html
 
-https://developer.qualcomm.com/sites/default/files/docs/snpe/index.html 
+## Reference resource
+MMDetection
+
+https://github.com/open-mmlab/mmdetection 
