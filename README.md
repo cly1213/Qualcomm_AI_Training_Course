@@ -1,4 +1,6 @@
 # Qualcomm AI Training Course
+[Certificate of Attendance](https://drive.google.com/file/d/1-UVWtroGnfXL0XNYSIZqJIBL-PT9yW2H/view)
+
  - Introduction to AI and Deep Learning
  - Learn how to build AI models
  - Learn about Qualcomm SNPE
@@ -10,4 +12,3 @@ MMDetection
 
 https://github.com/open-mmlab/mmdetection
 
-[Certificate of Attendance](https://drive.google.com/file/d/1-UVWtroGnfXL0XNYSIZqJIBL-PT9yW2H/view) 
